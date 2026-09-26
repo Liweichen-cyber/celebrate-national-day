@@ -1,0 +1,11 @@
+# IDE 配置（个人设置，不进仓库）
+.idea/
+
+# 编译产物
+celebrate
+national_day
+*.o
+a.out
+
+# macOS
+.DS_Store
